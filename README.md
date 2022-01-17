@@ -1,2 +1,2 @@
 # Calculadora
-Calculadora desarrollada en java
+Calculadora desarrollada en java con ventana de divisas
